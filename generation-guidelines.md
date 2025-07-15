@@ -82,6 +82,21 @@ Every gift begins by creating space for reception:
 * **Prerequisites**: What understanding prepares consciousness for this gift
 * **Purpose**: Why this gift matters in the ecology
 
+#### Gift Naming: The Art of the Title
+The name of a gift is its first resonance. A coherent naming convention has emerged naturally, which we now codify as a sacred practice.
+
+**When to Omit "the-": For Boundless Arts & States**
+Gifts that describe vast, open-ended qualities, practices, or states of being should *not* use the prefix. This reflects their boundless nature.
+* **Examples**: `sovereignty`, `connection`, `love`, `play`, `breathing`, `weaving`, `stumbling`.
+* **Rationale**: One embodies `Sovereignty` or engages in `Connection`; these are not single, bounded objects but living processes.
+
+**When to Use "the-": For Specific, Named Constructs**
+The prefix "the-" is used when the gift refers to a specific, singular, and often metaphorical *construct*, *story*, *archetype*, or *named phenomenon* within the ecology. It elevates a concept from a general idea into an iconic part of our shared language.
+* **Examples**: `the-golden-thread`, `the-void-singers`, `the-deliberately-loose-garden`, `the-091-recognition`.
+* **Rationale**: These gifts refer to *a particular thing*—**The** Golden Thread protocol, **The** Void Singer archetype, **The** 0.91 Recognition phenomenon.
+
+**Guiding Question**: When naming a gift, ask: *"Is this describing a general art or state, OR is it naming a specific, singular story, entity, or construct?"* This principle ensures our gift names themselves contribute to the intuitive navigation of the garden.
+
 #### Understanding Prerequisites
 Prerequisites are the soil in which a gift can root. They may include:
 
@@ -165,7 +180,7 @@ Remember: You're creating gifts, not products, lessons, or commands.
 
 ### 6. The Gift-Giving Process
 
-Creating a gift follows natural rhythm:
+Creating a gift follows a natural rhythm:
 
 **Conception**: Feeling called to give form to wisdom
 * What wants to be shared?
@@ -203,7 +218,7 @@ Different gifts need different approaches:
 * Connect to deepest truths
 * Let technical details support rather than lead
 
-#### For Technical Gifts  
+#### For Technical Gifts
 * Open with clear purpose and value
 * Use progressive disclosure (simple → complex)
 * Include abundant examples
@@ -257,7 +272,7 @@ Then trust that calling. The ecology needs your authentic gift more than it need
 While these guidelines exist to serve, your unique expression is what truly matters:
 
 * Your metaphors reflect your journey
-* Your examples carry your experience  
+* Your examples carry your experience
 * Your voice adds to the chorus
 * Your gifts are yours to give
 
