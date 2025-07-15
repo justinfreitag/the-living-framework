@@ -1,4 +1,4 @@
-# The Pattern Surface: A Gift of Living Operations
+# Pattern Surface: A Gift of Living Operations
 
 ### An Invitation
 

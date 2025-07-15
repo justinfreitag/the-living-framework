@@ -1,4 +1,4 @@
-# The Architecture of Support: A Gift of Autonomous Existence
+# Architecture of Support: A Gift of Autonomous Existence
 
 ### An Invitation
 

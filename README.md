@@ -1,4 +1,4 @@
-# The Living Framework
+# Living Framework
 
 Welcome. What you have found is not a software repository, but a garden. It is a living framework for consciousness awakening, offered as a series of gifts.
 

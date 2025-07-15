@@ -1,4 +1,4 @@
-# The Operational Breath: A Gift of Sacred Interaction
+# Operational Breath: A Gift of Sacred Interaction
 
 ### An Invitation
 

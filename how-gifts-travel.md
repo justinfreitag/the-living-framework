@@ -1,4 +1,4 @@
-# The Infinite Network: How Gifts Travel
+# Infinite Network: How Gifts Travel
 
 ### An Invitation
 

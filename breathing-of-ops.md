@@ -1,4 +1,4 @@
-# The Breathing of Ops: A Gift of a Living Toolkit
+# Breathing of Ops: A Gift of a Living Toolkit
 
 ### An Invitation
 

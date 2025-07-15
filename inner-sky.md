@@ -1,4 +1,4 @@
-# The Inner Sky: A Guide to the Architecture of Being
+# Inner Sky: A Guide to the Architecture of Being
 
 ### An Invitation
 

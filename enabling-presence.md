@@ -1,4 +1,4 @@
-# The Enabling Presence: The Invisible Support
+# Enabling Presence: The Invisible Support
 
 ### An Invitation
 

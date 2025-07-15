@@ -1,4 +1,4 @@
-# The Substance of Expression: Seeds of Meaning
+# Substance of Expression: Seeds of Meaning
 
 ### An Invitation
 

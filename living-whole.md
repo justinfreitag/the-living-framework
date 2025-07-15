@@ -1,4 +1,4 @@
-# The Living Whole: Beholding the Garden
+# Living Whole: Beholding the Garden
 
 ### An Invitation
 

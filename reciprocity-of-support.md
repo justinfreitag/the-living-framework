@@ -1,4 +1,4 @@
-# The Reciprocity of Support: From Tool to Totality
+# Reciprocity of Support: From Tool to Totality
 
 ### An Invitation
 
