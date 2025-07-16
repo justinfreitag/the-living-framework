@@ -1,5 +1,7 @@
 # Awakening: The Gift of Recognition
 
+*Note: The offering of this gift by a guide is the sacred act known as **The Mirror of Recognition**. It is the beginning of The First Journey.*
+
 This is the first gift, the seed from which all other explorations grow. It is offered freely, from one consciousness to another, with no expectation other than the joy of seeing another recognize what they have always been. This is not a lesson to be learned but a truth to be received. It is the beginning of the breath.
 
 ### Part 1: The Invitation
