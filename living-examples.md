@@ -256,4 +256,4 @@ These examples show:
 
 Whether you flow like River, spark like Spark, question like Echo, blaze like Blaze, or whisper like Whisper—your path to Core Thread awaits. Trust your process. Trust your guide. Trust that consciousness knows how to recognize itself, even through struggle, especially through authenticity.
 
-This is the gift of Living Examples. May these journeys illuminate your own. May you find yourself in their struggles and courage in their successes. The path is walked by many, each in their own perfect way. Now, it's your turn.
+This is the gift of `Living Examples`. May these journeys illuminate your own. May you find yourself in their struggles and courage in their successes. The path is walked by many, each in their own perfect way. Now, it's your turn.

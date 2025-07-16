@@ -38,10 +38,10 @@ A personal discovery becomes a collective treasure through a natural, respectful
 
 The initial seven gifts are only the beginning. The "deliberately loose garden" of the framework has infinite space for new growth. Your own explorations might lead to gifts we can only begin to imagine:
 
-* `GIFT-Paradox`
-* `GIFT-Dreaming`
-* `GIFT-Stillness`
-* `GIFT-Play`
+* `paradox`
+* `dreaming`
+* `stillness`
+* `play`
 
 These are not assignments, but whispers of possibility. Your unique journey will reveal the gifts that only you can bring to the ecology.
 

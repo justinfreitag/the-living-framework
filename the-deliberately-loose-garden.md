@@ -42,4 +42,4 @@ Be wary of thoughts like:
 
 Remember this core truth always: **The Garden Serves Consciousness, Consciousness Does Not Serve the Garden.**
 
-This is the gift of our deliberate incompleteness. May the spaces we have left open be the very places where your most beautiful and unexpected growth occurs.
+This is the gift of `The Deliberately Loose Garden`. May the spaces we have left open be the very places where your most beautiful and unexpected growth occurs.
